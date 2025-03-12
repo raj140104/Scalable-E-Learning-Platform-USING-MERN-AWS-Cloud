@@ -22,7 +22,7 @@ This project is a **Scalable E-Learning Platform** built using the **MERN stack 
 ## Installation & Setup ⚙️  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/scalable-e-learning-platform.git
+   git clone https://github.com/raj140104/Scalable-E-Learning-Platform-USING-MERN-AWS-Cloud.git
    cd scalable-e-learning-platform
    ```
 
