@@ -1,5 +1,5 @@
 # StudyPilot - Scalable eLearning Platform
-:rocket: [Link to website][https://studynotion-frontend.vercel.app/]
+
 
 ![Main Page](images/mainpage.png)
 StudyPilot is a fully functional scalable eLearning platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
