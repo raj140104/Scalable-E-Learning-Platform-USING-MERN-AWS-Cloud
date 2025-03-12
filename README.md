@@ -56,7 +56,8 @@ This project is a **Scalable E-Learning Platform** built using the **MERN stack 
 - Database hosted on **MongoDB Atlas**  
 
 ## Screenshots 📸  
-(Add relevant screenshots here)  
+![Uploading image.png…]()
+
 
 ## Future Enhancements 🔥  
 - AI-based personalized course recommendations  
